@@ -1,0 +1,69 @@
+
+
+header {
+    background-color: #FFFFFF;
+}
+
+header h1{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+header p {
+    font-size: .90rem;
+    text-align: center;
+    padding-top: .75rem;
+    padding-bottom: 4rem;
+
+}
+
+main {
+    background-color: #F9FAFC;
+
+    border: 2px solid #060707;
+}
+
+.title-question {
+    margin-left: 25vw;
+}
+
+.title-question h2 {
+    padding-top: 2.5rem;
+    font-weight: 500;
+}
+
+.title-question p {
+    padding: 1rem 0;
+}
+
+.steps {
+    margin-right: 17rem;
+    margin-left: 1rem;
+}
+
+hr {
+    margin: 1.5rem 0;
+    margin-left: 25vw;
+    margin-right: 15vw;
+}
+
+.title-policy h2{
+    margin-left: 25vw;
+    font-weight: 500;
+}
+
+.title-policy p {
+    margin-left: 25vw;
+    padding-top: 1rem;
+}
+
+.return-policy ul {
+    padding: 1.5rem 0;
+    margin-right: 17rem;
+    margin-left: 27vw;
+}
+
+.return-policy p {
+    margin-left: 25vw;
+    padding-bottom: 2rem;
+}
